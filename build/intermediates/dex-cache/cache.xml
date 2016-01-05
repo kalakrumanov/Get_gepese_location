@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kalak/Downloads/Android GPS/[CODE]/GetGPSaVerSiva/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/kalak/Downloads/Android GPS/[CODE]/GetGPSaVerSiva/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0_89424f9094953c76ba33c9e11affd734036649a8.jar" />
+    </item>
+    <item
+        jar="/Users/kalak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/kalak/Downloads/Android GPS/[CODE]/GetGPSaVerSiva/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0_95e7ae706725a83a95fc54f0051bc0def1f6719a.jar" />
+    </item>
+    <item
+        jar="/Users/kalak/Downloads/Android GPS/[CODE]/GetGPSaVerSiva/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/kalak/Downloads/Android GPS/[CODE]/GetGPSaVerSiva/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-20.0.0_a78dd726ba28438f1e33c9aa920e530419da4397.jar" />
+    </item>
+    <item
+        jar="/Users/kalak/Downloads/Android GPS/[CODE]/GetGPSaVerSiva/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/kalak/Downloads/Android GPS/[CODE]/GetGPSaVerSiva/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-20.0.0_176d697a3c9223bff98cf21e1f5f3fcf9b464e76.jar" />
+    </item>
+
+</items>
